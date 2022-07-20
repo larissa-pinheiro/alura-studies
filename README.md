@@ -16,7 +16,7 @@
 
 ## 💻 Projeto
 
-[Alura Studies](#) é o projeto de um timer para estudos que foi desenvolvido durante o curso React: escrevendo com typescript da [Alura](https://alura.com.br/). O curso conta com 7 módulos que variam de 8 a 12 aulas por módulo.
+[Alura Studies](#) é o projeto de um timer para estudos que foi desenvolvido durante o curso React: escrevendo com Typescript da [Alura](https://alura.com.br/). O curso conta com 7 módulos que variam de 8 a 12 aulas por módulo.
 
  - [x] Módulo 1: Criando o Projeto
  - [x] Módulo 2: Componentização
