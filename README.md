@@ -21,7 +21,7 @@
  - [x] Módulo 1: Criando o Projeto
  - [x] Módulo 2: Componentização
  - [x] Módulo 3: Usando CSS
- - [ ] Módulo 4: Props
+ - [x] Módulo 4: Props
  - [ ] Módulo 5: State
  - [ ] Módulo 6: Selecionando um item
  - [ ] Módulo 7: Finalizando a aplicação
