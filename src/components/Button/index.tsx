@@ -2,13 +2,13 @@ import React from 'react'
 import style from './Button.module.scss'
 
 type Props = {
-  texto: string;
+  text: string;
 }
 
-function Button({ texto }: Props) {
+function Button({ text }: Props) {
   return (
     <button className={style.button}>
-      {texto}
+      {text}
     </button>
   )
 }

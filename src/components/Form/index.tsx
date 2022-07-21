@@ -32,7 +32,7 @@ function Form() {
         />
       </div>
       <Button 
-        texto="Adicionar"
+        text="Adicionar"
       />        
     </form>
   );
